@@ -150,6 +150,7 @@ body {
 	z-index: 0;
 /*	height: calc(100vh - 176px);*/
 /*	border: 10px solid black;*/
+	overflow: hidden;
 }
 
 #hero .container {
